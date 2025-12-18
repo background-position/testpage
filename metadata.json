@@ -1,0 +1,8 @@
+{
+  "name": "SK Health AI",
+  "description": "A comprehensive health management platform integrating multi-device data analysis and personalized AI health guidance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
